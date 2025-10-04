@@ -113,10 +113,7 @@ This project is developed for academic purposes. Please cite appropriately if us
 
 ## Contact
 
-**Grâce Esther DONG**  
-Email: [your.email@domain.com]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Profile]
+**Grâce Esther DONG**
 
 ---
 *Developed with passion for computer vision and deep learning*
