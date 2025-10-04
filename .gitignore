@@ -5,6 +5,9 @@
 *.weights
 *.ckpt
 
+# Course documents and PDFs
+*.pdf
+
 # Generated images (keep only a few samples)
 samples_epoch_*.png
 
