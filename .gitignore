@@ -1,0 +1,36 @@
+# Large model files and datasets
+*.keras
+*.npz
+*.h5
+*.weights
+*.ckpt
+
+# Generated images (keep only a few samples)
+samples_epoch_*.png
+
+# Large datasets
+data/
+datasets/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
