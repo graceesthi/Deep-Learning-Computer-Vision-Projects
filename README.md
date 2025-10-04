@@ -1,10 +1,5 @@
 # Deep Learning for Computer Vision Projects
 
-**Author:** Grâce Esther DONG  
-**Academic Program:** 4th Year Engineering - AI Specialization  
-**Institution:** Aivancity School for Technology, Business & Society  
-**Academic Year:** 2024-2025
-
 ## Project Overview
 
 This repository contains multiple computer vision projects implementing advanced deep learning techniques including GANs, image style transfer, and cartoonization algorithms.
@@ -112,8 +107,6 @@ These projects were developed as part of the **Deep Learning for Computer Vision
 This project is developed for academic purposes. Please cite appropriately if used for research.
 
 ## Contact
-
-**Grâce Esther DONG**
 
 ---
 *Developed with passion for computer vision and deep learning*
