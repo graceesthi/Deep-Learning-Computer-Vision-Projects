@@ -106,7 +106,5 @@ These projects were developed as part of the **Deep Learning for Computer Vision
 
 This project is developed for academic purposes. Please cite appropriately if used for research.
 
-## Contact
-
 ---
 *Developed with passion for computer vision and deep learning*
